@@ -1,4 +1,11 @@
-hi
+import React from 'react';
 
+const index = () => {
+    return (
+        <div>
+            hi this is the Game ... 
+        </div>
+    );
+};
 
-hlw 
+export default index;
